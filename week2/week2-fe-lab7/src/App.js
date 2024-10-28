@@ -13,7 +13,7 @@ const article1Title = 'Article 1';
 const article1Text = 'Content of Article 1.';
 const sidebarContent = 'Sidebar content goes here.';
 const section2Content = 'This is the content of section 2.';
-const footerText = 'Copyright © 2023 JSX Props App';
+const footerText = 'Copyright © 2024 JSX Props App';
 
 function App() {
   return (
